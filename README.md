@@ -8,7 +8,7 @@ View assigned tasks and update their statuses as accepted, completed, or failed.
 Keep track of personal task progress.
 
 Authentication: Separate login credentials for admins and employees.
-Tech Stack: HTML5, CSS, Tailwind CSS, ReactJS
+Tech Stack: HTML5, CSS, Tailwind CSS, JavaScript, ReactJS.
 
 # React + Vite
 
