@@ -1,2 +1,8 @@
-# employee_mgmt_system
-A web app for task management with separate dashboards for admins and employees. Admins can assign and track tasks by status (new, active, completed, failed). Employees can view and update tasks. Built with ReactJS, HTML, CSS, Tailwind CSS, and local storage. Ideal for streamlined task tracking.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
