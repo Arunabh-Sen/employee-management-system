@@ -10,6 +10,17 @@ Keep track of personal task progress.
 Authentication: Separate login credentials for admins and employees.
 Tech Stack: HTML5, CSS, Tailwind CSS, JavaScript, ReactJS.
 
+Screenshots:
+
+Login Page
+![Screenshot 2025-03-26 103421](https://github.com/user-attachments/assets/6f9c026f-a1a4-4c1a-a81d-47388300f826)
+
+Admin Dashboard
+![Screenshot 2025-03-26 103437](https://github.com/user-attachments/assets/d4cb184a-1622-41bd-9463-57004b4396a0)
+
+Employee Dashboard
+![Screenshot 2025-03-26 103455](https://github.com/user-attachments/assets/fde96533-5cc5-4508-b1f3-d2f896756058)
+
 ## Live Demo  
 Check out the project: [GitHub Repository](https://github.com/Arunabh-Sen/employee-management-system).  
 
