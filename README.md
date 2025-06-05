@@ -1,24 +1,27 @@
+# Employee Management System
 A feature-rich web application for managing employee tasks efficiently, designed for both administrators and employees.
-Admin Dashboard:
+### Admin Dashboard:
 Manage employees and their tasks with categorized statuses: New, Active, Completed, or Failed.
 View a detailed summary of tasks for each employee.
 
-Employee Dashboard:
+### Employee Dashboard:
 View assigned tasks and update their statuses as accepted, completed, or failed.
 Keep track of personal task progress.
 
-Authentication: Separate login credentials for admins and employees.
-Tech Stack: HTML5, CSS, Tailwind CSS, JavaScript, ReactJS.
+### Authentication:
+Separate login credentials for admins and employees.
+#### Tech Stack:
+HTML5, CSS, Tailwind CSS, JavaScript, ReactJS.
 
-Screenshots:
+## Screenshots:
 
-Login Page
+### Login Page
 ![Screenshot 2025-03-26 103421](https://github.com/user-attachments/assets/6f9c026f-a1a4-4c1a-a81d-47388300f826)
 
-Admin Dashboard
+### Admin Dashboard
 ![Screenshot 2025-03-26 103437](https://github.com/user-attachments/assets/d4cb184a-1622-41bd-9463-57004b4396a0)
 
-Employee Dashboard
+### Employee Dashboard
 ![Screenshot 2025-03-26 103455](https://github.com/user-attachments/assets/fde96533-5cc5-4508-b1f3-d2f896756058)
 
 ## Live Demo  
